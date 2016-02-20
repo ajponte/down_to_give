@@ -1,0 +1,10 @@
+{
+  "generator-flask-api": {
+    "appName": "nfl_stream",
+    "database": "none",
+    "databaseMapper": "none",
+    "versioningScheme": "none",
+    "currentVersion": "",
+    "urlPrefix": "/api"
+  }
+}
